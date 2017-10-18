@@ -1,0 +1,23 @@
+{
+  "name": "splitwise",
+  "description": "the cash distribution among peers store",
+  "main": "index.js",
+  "authors": [
+    "Umesh"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bootstrap"
+  ],
+  "homepage": "https://github.com/mayurvetoskar/splitwise",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
