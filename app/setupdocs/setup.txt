@@ -1,0 +1,9 @@
+Project setup steps
+
+1. Download and install node js 
+2. open command promt and change directory to your project
+3. npm init
+4. npm install angular --save
+5. bower init
+6. npm install bower --save
+7. bower install bootstrap --save
